@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.bitnami/stackman/machines/xampp/volumes/root/htdocs/database_pltb"
+		},
+		{
+			"name": "pzem",
+			"path": "../../../../../Desktop/Bahan Skripsi/pzem"
+		},
+		{
+			"name": "Monitoring",
+			"path": ".."
+		},
+		{
+			"name": "Monitoring PLTB",
+			"path": "../../Monitoring PLTB"
+		}
+	],
+	"settings": {}
+}
